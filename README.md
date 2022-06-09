@@ -1,0 +1,1 @@
+Staj döneminde yaptığım basit bir kayıt sistemidir. Sisteme yeni öğrenci kayıt edilebilir, kayıtlı öğrencilerin bilgileri düzenlenebilir, kayıtlı öğrenciler silinebilir, kayıtlı öğrenciler içinde arama yapılabilir.
