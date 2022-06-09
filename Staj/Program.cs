@@ -9,7 +9,7 @@ namespace Staj
     static class Program
     {
         /// <summary>
-        /// Uygulamanın ana girdi noktası.
+        /// Uygulamanın ana girdi noktası
         /// </summary>
         [STAThread]
         static void Main()
